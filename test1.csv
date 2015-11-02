@@ -1,0 +1,6 @@
+1,Ahoy\, Matey!
+2,char esc = '\\'
+3,"char quote = '\"'"
+Not a number,this line is corrupted
+5
+6,the last row is missing an item
